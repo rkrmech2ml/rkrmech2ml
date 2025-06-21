@@ -19,6 +19,8 @@ Mechanical Engineer specializing in **Mathematical Modeling, Simulation, and Opt
 
 ## Skills & Expertise
 
+- **Mechanical Engineering**: Strong foundation in core mechanical principles, system design, and applied engineering analysis.
+- **Engineering Simulation**: Proficient in leveraging simulation tools for modeling, analyzing, and optimizing complex engineering systems.
 - **ANSYS CFD & FEM**: Solid foundation in computational fluid dynamics and finite element methods, driving advanced simulation projects.
 - **Python**: 🐍 Extensive experience in scientific computing and GUI development for intuitive model interaction and visualization.
 - **C++**: ⚙️ Intermediate proficiency for high-performance computation and system-level tasks.
