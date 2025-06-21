@@ -2,6 +2,17 @@
 
 Mechanical Engineer specializing in **Mathematical Modeling, Simulation, and Optimization** for complex engineering challenges. My Master's bridges theory with real-world application.
 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Simulation](https://img.shields.io/badge/Simulation-4CAF50?style=for-the-badge&logo=simulink&logoColor=white)
+![GeoDict](https://img.shields.io/badge/GeoDict-1976D2?style=for-the-badge)
+![CFD](https://img.shields.io/badge/CFD-0288D1?style=for-the-badge&logo=ansys&logoColor=black)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-673AB7?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+
 ---
 
 ## Skills & Expertise
