@@ -25,7 +25,7 @@ Mechanical Engineer specializing in **Mathematical Modeling, Simulation, and Opt
 
 ---
 
-## Current Focus: AI & Scientific Computing Synergy
+## Current Focus: Scientific Computing 
 
 - **Physics-Informed Neural Networks (PINNs) for Heat Equation**  
   Integrating physics into neural networks for robust, data-efficient PDE solutions—next-gen simulation tools.
@@ -34,45 +34,13 @@ Mechanical Engineer specializing in **Mathematical Modeling, Simulation, and Opt
   Developing intelligent, adaptive control for enhanced system performance and resilience in dynamic environments.
 
 ---
-
 ## Let's Connect!
 
 🤝 Eager to collaborate with ML, Data Science, and Simulation enthusiasts.  
 Let's innovate and build the future—one intelligent model at a time!
 
 
-Backend:
 
-
-
-
-Databases:
-
-
-
-Tools & Other:
-
-
-
-
-
-🤔 I'm looking for help with
-Collaborating on exciting open-source projects.
-
-Integrating [Specific Technology/Concept, e.g., Machine Learning models] into web applications.
-
-Finding mentors for [Area you need help with].
-
-📫 How to reach me
-You can connect with me through:
-
-LinkedIn: Your LinkedIn Profile
-
-Twitter/X: @YourTwitterHandle
-
-Personal Website/Portfolio: Your Website URL
-
-Email: youremail@example.com
 
 😄 Fun fact
-I once debugged a whole application just by talking to a rubber duck 🦆. (Or add your own unique fun fact!)
+> "Mathematics is the pulsative force of the world," someone once said.
