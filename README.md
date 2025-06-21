@@ -1,24 +1,31 @@
-About Me
-Mechanical Engineer leveraging Mathematical Modeling, Simulation, & Optimization for complex engineering challenges. My Masters bridges theory with application.
+# About Me
 
-Solid foundation in ANSYS CFD & FEM 🚀, driving advanced simulation projects. This background provides a unique lens for data-driven & model-based solutions.
+Mechanical Engineer specializing in **Mathematical Modeling, Simulation, and Optimization** for complex engineering challenges. My Master's bridges theory with real-world application.
 
-Current Focus: AI & Scientific Computing Synergy
-🔬 My Masters research pushes boundaries at the intersection of AI and simulation:
+---
 
-Physics-Informed Neural Networks (PINNs) for Heat Equation: Integrating physics into neural networks for robust, data-efficient PDE solutions. Next-gen simulation tools.
+## Skills & Expertise
 
-Adaptive Sliding Mode Control (SMC) with Machine Learning: Developing intelligent, adaptive control for enhanced system performance & resilience in dynamic environments.
+- **ANSYS CFD & FEM**: Solid foundation in computational fluid dynamics and finite element methods, driving advanced simulation projects.
+- **Python**: 🐍 Extensive experience in scientific computing and GUI development for intuitive model interaction and visualization.
+- **C++**: ⚙️ Intermediate proficiency for high-performance computation and system-level tasks.
 
-Computational Toolkit
-My proficiency ensures models are built and accessible:
+---
 
-Python: 🐍 Extensive for scientific computing & GUI development (intuitive model interaction, visualization).
+## Current Focus: AI & Scientific Computing Synergy
 
-C++: ⚙️ Intermediate proficiency for high-performance computation & system-level tasks.
+- **Physics-Informed Neural Networks (PINNs) for Heat Equation**  
+  Integrating physics into neural networks for robust, data-efficient PDE solutions—next-gen simulation tools.
 
-🤝 Eager to connect with ML, Data Science, & Simulation enthusiasts. Let's innovate and build the future, one intelligent model at a time!
+- **Adaptive Sliding Mode Control (SMC) with Machine Learning**  
+  Developing intelligent, adaptive control for enhanced system performance and resilience in dynamic environments.
 
+---
+
+## Let's Connect!
+
+🤝 Eager to collaborate with ML, Data Science, and Simulation enthusiasts.  
+Let's innovate and build the future—one intelligent model at a time!
 
 
 Backend:
