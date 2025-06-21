@@ -1,4 +1,7 @@
-**Rahul K** (Mechanical →← Numerics)  
+
+---
+## Rahul K (Mechanical Eng →← Applied Numerics)  
+---
 Mechanical Engineer specializing in **Mathematical Modeling, Simulation, and Optimization** for complex engineering challenges. My Master's bridges theory with real-world application.
 
 
