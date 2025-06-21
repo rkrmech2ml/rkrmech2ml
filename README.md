@@ -1,5 +1,4 @@
-# About Me
-
+**Rahul K** (Mechanical →← Numerics)  
 Mechanical Engineer specializing in **Mathematical Modeling, Simulation, and Optimization** for complex engineering challenges. My Master's bridges theory with real-world application.
 
 
